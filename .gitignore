@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# User-generated data
+speedtest_log.csv
+*.log
+
+# Speedtest CLI binary - users should download this themselves
+ookla-speedtest-1.2.0-win64/
+speedtest.exe
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
